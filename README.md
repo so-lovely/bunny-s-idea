@@ -14,3 +14,17 @@
 그걸 디코드해성 실험하명 같은수학기호강 나오능가? 그렁
 같다명 최적화가능항
 그리공 모델들끼리의 특정단어에대항 벡터스펙트렁
+
+# 평범한
+
+tf-idf
+
+기반 데이터 defined as A
+벡터라이저&tokenizer fit transform(A) -> rule을 고정시키기 위함 A에 대한 기반 설립
+
+A데이터의 feature들만 이용하여 B를해석
+transform(B)
+
+
+
+
