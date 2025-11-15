@@ -25,6 +25,7 @@ tf-idf
 A데이터의 feature들만 이용하여 B를해석
 transform(B)
 
+하나의 document에 대항 embedding vectors(suppose C) 만드능것 - 그 document에 기반항 서로 단어끼리 유사성 나타낸 각 단어벡터들롱 구성 sum of C 능 C의 원소들을 결합한 의미
 
 
 
